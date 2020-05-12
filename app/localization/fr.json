@@ -1,0 +1,432 @@
+{
+  "modal": {
+    "label": {
+      "close": "Fermer",
+      "cancel": "Annuler",
+      "set": "Ensemble"
+    }
+  },
+  "addBusiness": {
+    "label": {
+      "add": "AJOUTER UNE AFFAIRE"
+    },
+    "text": {
+      "relationship": "Quelle relation entretenez-vous avec l'entreprise que vous souhaitez ajouter?"
+    },
+    "button": {
+      "owner": "Je suis un client",
+      "worker": "Je travaille au business"
+    }
+  },
+  "back": "Back",
+  "citizens": "Citoyens",
+  "connects": "Connections",
+  "favorited_me": "M’ont ajouté à leurs favoris",
+  "favorites": "Favoris",
+  "favs": "Tops",
+  "feed": "Actualité",
+  "great_lets_go": "Génial, allons-y !",
+  "got_it": "Ok, j'ai compris",
+  "listings": "Annonces",
+  "my_favs": "Mes Favoris",
+  "my_reviews": "Mes Avis",
+  "nearby": "À proximité",
+  "nearby_businesses": "Entreprises",
+  "education": "Éducation",
+  "rooms_&_bnb": "Chambres et B&B",
+  "skip": "Suivant",
+  "views": "Des idées",
+  "timeline": "Chronologie",
+  "search": "Rechercher",
+  "myEvents": "Mes événements",
+  "eventsList": "Tous les évènements",
+
+  "tabs": {
+    "activity": "Activité",
+    "spots": "Spots",
+    "events": "Événements",
+    "settings": "Réglages",
+    "chat": "Bavarder",
+    "people": "Personnes"
+  },
+
+  "allow_locations": {
+    "askPermission": "Veuillez activer la géolocation pour avoir accès aux récompenses et trouver des entreprises à proximité"
+  },
+  "welcome": {
+    "title": "Bienvenue chez SPECTRA!",
+    "content": "Nous sommes heureux que vous nous avez rejoint. Nous ajouterons de nouvelles fonctionnalités tous les 2-4 jours pour faire de notre plate-forme une endroit impressionnant. S'il vous plaît partagez vos commentaires et suggestions - nous avons besoin de savoir quelles fonctionnalités vous avez besoin!"
+  },
+  "like": {
+    "useful": "Utile",
+    "funny": "Drôle",
+    "witty": "Intelligent",
+    "submitedText": "J’ai compris, Merci !"
+  },
+
+  "dislike": {
+    "sexism": "Sexisme",
+    "racism": "Racisme",
+    "homophobia": "Homophobie",
+    "spam": "Spam",
+    "offensive": "Offensif",
+    "disagree": "Je ne suis pas d’accord",
+    "submitedText": "Bien reçu, nous allons examiner cela"
+  },
+
+  "screens": {
+    "events": "Évènements",
+    "home": "Accueil"
+  },
+
+  "messages": {
+    "chat": "CHAT",
+    "no_name_user": "Sans Nom",
+    "send_location": "Envoyer la localisation",
+    "request_location": "Demander la localisation",
+    "cancel": "Annuler",
+    "sendPhoto": "Envoyer une photo",
+
+    "location_sent": "Vous avez partagé vos informations de localisation",
+    "location_received": "Vous avez reçus les informations de localisation",
+    "location_request_sent": "Vous avez demandé les informations de localisation",
+    "location_request_received": "Ils ont demandé vos informations de localisation",
+    "sent_prefix": "Vous: ",
+    "photo_message": "Image",
+    "dialogs_empty": "Vous n’avez aucun message",
+
+    "input_placeholder": "Messages",
+    "location_accepted": "La demande de localisation a été acceptée 👍",
+    "location_rejected": "La demande de localisation a été refusée ❌",
+    "location_requested": "Informations de localisation demandées 📌",
+    "button_send_location": "Envoyer les informations de localisation",
+    "button_reject_location": "Refuser la demande de localisation",
+    "interlocutor_typing": "{fullName} est entrain d’écrire...",
+    "open_album": "Album ouvert",
+
+    "image_back": "Retour",
+    "image_of": "de",
+
+    "location_marker_title": "{name} de l’emplacement",
+
+    "before_you_start": "Eh, {myName} avant de commencer...",
+    "you_speaking_to_real_people": "Rappelez-vous que vous parlez à de vraies personnes, alors soyez bons et traitez-les avec le respect qu’elles méritent",
+    "button_got_it": "J’ai compris"
+  },
+
+  "spot_review": {
+    "review": "AVIS",
+    "about": "DÉTAILS",
+    "rewards": "RÉCOMPENSES",
+    "add_review": "Ajouter un avis"
+  },
+
+  "spot_poll": {
+    "submit": "Soumettre"
+  },
+
+  "spot_poll_submitted": {
+    "done": "Fait"
+  },
+
+  "on_boarding": {
+    "withFacebook": "Connectez-vous avec Facebook",
+    "withGoogle": "Connectez-vous avec Google",
+    "withEmail": "Connectez-vous avec votre adresse courriel",
+    "dont_have_account": "Vous n’avez pas de compte?",
+    "signUp": "Enregistrez-vous",
+    "or": "Ou",
+    "term_first": "En continuant, vous acceptez nos ",
+    "term_last": " et confirmez que vous avez lu nos",
+    "term_of_use": "Conditions d’utilisation",
+    "nondiscremination": "Politique contre la discrimination",
+    "privacy": "Politique de confidentialité",
+    "accept": "Acceptez",
+    "and": "et"
+  },
+
+  "sign_in_with_email": {
+    "name": "Connectez-vous",
+    "forgot_password": "Vous avez oublié votre mot de passe?",
+    "dont_have_account": "Vous n’avez pas de compte?",
+    "sign_up": "Enregistrez-vous"
+  },
+
+  "sign_up": {
+    "notSuitableByAgeAudience": "Vous devez avoir au moins %{years} ans pour nous rejoindre.",
+    "headerLabel": "Créer un profil",
+    "btnDone": "Terminé",
+    "name": "Enregistrez-vous",
+    "have_an_account": "Vous avez déja un compte?"
+  },
+  "forgot_password": {
+    "name": "Vous avez oublié votre mot de passe",
+    "remember_password": "Vous vous rappelez de votre mot de passe?",
+    "dont_have_account": "Vous n’avez pas de compte?",
+    "restore_password": "Restaurer le mot de passe",
+    "message_sent": "Veuillez consulter votre courriel pour restaurer votre mot de passe"
+  },
+
+  "app_information": {
+    "termsOfService_title": "Conditions d’utilisation",
+    "privacyPolicy_title": "Politique de confidentialité",
+    "eula_title": "Accord de licence",
+    "nonDiscriminationPolicy_title": "Politique de non-discrimination"
+  },
+
+  "location": {
+    "name": "Localisation",
+    "switch": "Localisation générale",
+    "text": "Nous utilisons votre localisation générale pour vous faire découvrir de meilleures offres avec des entreprises inclusives. Lorsque votre localisation générale est activée, vous recevez des notifications personnalisées.",
+    "text2": "Cette fonctionnalité ne demande pas beaucoup d’énergie à votre batterie et se désactive lorsque vous n’êtes pas en mouvement.",
+    "button": "Paramètre de localisation"
+  },
+
+  "people": {
+    "friends": "Amis",
+    "incoming": "Nouveau",
+    "outgoing": "Demande",
+    "blocked": "bloqué",
+    "no_friends": "Vous n’avez aucun amis",
+    "no_incoming_requests": "Vous n’avez reçu aucune demande d’amis",
+    "no_outgoing_requests": "Vous n’avez aucune demande d’amis en attente",
+    "no_blocked": "Votre liste noire est vide",
+    "accept": "Accepter",
+    "ignore": "Ignorer",
+    "revoke_request": "Révoquer la requête"
+  },
+  "events": {
+    "label": {
+      "edit": "Modifier l'événement",
+      "create": "Créer un évènement",
+      "title": "Titre",
+      "description": "La description",
+      "time": "Temps",
+      "tags": "Mots clés",
+      "category": "Catégorie",
+      "address": "Adresse",
+      "filters": "Les filtres",
+      "applyFilter": "Appliquer le filtre",
+      "organizer": "Organisateur",
+      "maybe": "Peut être",
+      "attendees": "Participants"
+    },
+    "category": {
+      "fashion": "Mode",
+      "entertainment": "Divertissement",
+      "travels": "Voyages"
+    },
+    "status": {
+      "unattend": "Sans surveillance",
+      "optedOut": "Choisi de se retirer",
+      "maybe": "Peut être",
+      "going": "Aller"
+    },
+    "button": {
+      "save": "Enregistrer",
+      "create": "Créer"
+    }
+  },
+  "albums": {
+    "who_can_see": "Qui peut voir cet album",
+    "album_name": "Nom de l'album",
+    "album_description": "Description de l'album",
+    "my_albums": "Mes Albums",
+    "no_albums": "Il n’y a pas d’albums",
+    "no_photos": "Cet album est vide",
+    "albums_list_title": "albums de {fullName}",
+
+    "create_album": "Créer un album",
+    "create_your_album": "Créez votre album",
+    "edit_album": "Modifier l'album",
+    "placeholder_title": "Titre",
+    "placeholder_description": "À propos de l'album",
+    "button_save": "Enregistrer",
+    "button_create": "Enregistrer",
+
+    "privacy_public": "Public",
+    "privacy_users": "Utilisateurs uniquement",
+    "privacy_friends": "Seuls des amis",
+    "privacy_private": "Privé",
+    "privacy_some_users": "Seulement quelques utilisateurs",
+
+    "photo": "photo",
+    "photos": "photos"
+  },
+
+  "other": {
+    "validate": "Validate",
+    "title": "Paramètres",
+    "rewardsLens": "Rewards Lens",
+    "my_profile": "Profil",
+    "my_friends": "Mes amies",
+    "my_albums": "Mes albums",
+
+    "spread_word": "Passez le mot",
+    "blocked_users": "Blocked users",
+    "taking_a_break": "Faire une pause",
+    "redeem_code": "Utiliser le code promotionnel",
+    "albums_access": "Accès aux albums",
+    "settings_geolocation": "Géolocalisation des paramètres",
+    "FAQ": "FAQ",
+
+    "background_color": "Changer la couleur de fond",
+    "reset_tutorials": "Réinitialiser tous les tutoriels",
+    "invite_friends": "Inviter des amis",
+    "change_color": "Changer la couleur des éléments",
+    "enable_push_sound": "Activer les notifications sonores",
+    "disable_push_sound": "Désactiver les notifications sonores",
+    "enable_messages": "Activer la messagerie instantanée",
+    "disable_messages": "Désactiver la messagerie pendant 24 heures",
+    "touch_id": "Empreinte d’identification",
+    "add_a_business": "Proposer une entreprise",
+    "location_settings": "Paramètres de localisation",
+    "profile_verification": "Vérifie moi",
+    "legal": "Légal",
+    "contact_admins": "Contacter un administrateur",
+    "suggest_a_feature": "Suggérer une fonctionnalité",
+    "sign_out": "Connectez - Out",
+    "change_language": "Choisir la langue",
+    "request_data_about_me": "Envoyez moi mes données",
+
+    "tutorials_alert_title": "Réinitialiser les tutoriels",
+    "tutorials_alert_message": "Vous verrez maintenant tous les didacticiels d’application.\nRecommandé pour redémarrer l’application.",
+
+    "section_profile": "Profil",
+    "section_verifications": "Les vérifications",
+    "section_customizations": "Personnalisations",
+    "section_contact_us": "Contactez nous",
+    "section_privacy": "Intimité",
+    "section_businesses": "Entreprises",
+    "section_other": "Autre",
+    "bookmarks": "Mes marque-pages"
+  },
+
+  "swipeable": {
+    "block": "Bloquer",
+    "unfriend": "Retirer de la liste d’amis",
+    "delete": "Supprimer",
+    "unblock": "Débloquer",
+    "edit": "Edit",
+    "remove": "Remove"
+  },
+
+  "spots": {
+    "add_a_business": "Ajouter une entreprise",
+    "contact_admins": "Contacter un administrateur",
+    "suggest_a_feature": "Suggérer une fonctionnalité",
+    "coming_soon": "Bientôt",
+
+    "my_reviews_empty": "Cliquez sur entreprises et écrivez votre premier commentaire!",
+    "review": "Donner votre avis",
+    "reviews": "Avis",
+    "get_points": "Recevez {points} POINTS!",
+
+    "write_first_review": "Soyez le premier à donner votre avis!",
+    "check_in": "S’enregistrer",
+    "add_photos": "Ajouter des images",
+    "now_hiring": "Offre de l’emploi",
+
+    "share": "Partager",
+    "leave_a_tip": "Laisser un pourboire",
+    "rate": "Donner votre avis"
+  },
+
+  "spots_filter": {
+    "title": "Filtres",
+    "sort_distance": "Distance",
+    "sort_rating": "Évaluations",
+    "sort_reviews": "Les plus évaluées",
+    "freelancer": "Accepte les freelancers",
+    "offers": "Offre des promotions",
+    "rewards": "Programme de récompenses",
+    "sort_by": "Filtrer par",
+    "category": "Catégorie",
+    "highlight": "Points forts",
+    "distance": "Distance, milles",
+    "all_distance": "Toutes les distances",
+    "apply_filter": "Appliquer le filtre"
+  },
+
+  "profile": {
+    "mutual": "les mutuelles",
+    "cancel_friend_request": "Annuler la demande d’amis",
+    "ignore_friend_request": "Ignorer la demande d’amis",
+    "unfriend": "Retirer de la liste d’amis",
+    "accept_friend_request": "Accepter la demande d’amis",
+    "add_to_friends": "Envoyer une demande d’amis",
+    "dont_show": "Ne plus montrer",
+    "full_name": "Nom complet",
+    "age": "%{years} ans",
+    "about_me": "À propos",
+    "message": "Message",
+    "share_profile": "Partager le profil",
+    "photos": "Photos",
+    "friends": "Amis",
+    "my_friends": "Voir tous les amis",
+    "my_albums": "Voir toutes les photos",
+    "edit_info": "Modifier les informations",
+    "edit_profile": "Editer le profil",
+    "gender": "Le sexe",
+    "pronoun": "Pronom",
+    "orientation": "Orientation sexuelle"
+  },
+
+  "copilot": {
+    "addPhoto": "Téléchargez votre photo de couverture. C'est requis!",
+    "myEvents": "Liste de vos événements",
+    "eventsList": "Liste des événements",
+    "profile_visitors": "Visiteurs de votre profil.",
+    "visited_places": "Lieux visités.",
+    "coins": "Ceci est votre solde de pièces.",
+
+    "profile_selector": "Sélecteur de profil. Basculez entre vos profils Review et Housing!",
+    "users_list": "Trouver des utilisateurs de la liste!",
+
+    "change_profile_picture": "Change ta photo de profil!",
+    "edit_profile": "Modifier les informations de profil.",
+
+    "add_business": "Ajouter une entreprise.",
+    "verify_profile": "Vérifiez votre profil.",
+    "change_background": "Changer la couleur de fond!",
+
+    "set_place_rating": "Revoir les lieux!",
+    "place_check_in": "Cliquez pour vous enregistrer à un endroit!",
+    "add_place_photos": "Ajouter des photos d'un lieu!",
+
+    "places_filter": "Voici votre filtre de recherche.",
+    "map_button": "Passez à la vue Carte!",
+    "reviews_list": "Liste de vos critiques.",
+    "search_places": "Recherchez les endroits où aller!",
+
+    "send_new_photo": "Faites une nouvelle photo et envoyez-la à votre interlocuteur!",
+    "send_gallery_photo": "Ou sélectionnez une photo de votre galerie",
+    "share_location": "En outre, vous pouvez partager votre position",
+    "request_location": "Ou demandez la localisation de l'interlocuteur!"
+  },
+
+  "edit_profile": {
+    "title": "Editer le profil",
+
+    "placeholder_name": "Prénom",
+    "placeholder_last_name": "Nom de famille",
+    "placeholder_about_me": "À propos de moi",
+    "button_done": "Terminé"
+  },
+
+  "bookmarks": {
+    "title": "Signets",
+    "empty_list": "Les marque-pages sont vides"
+  },
+
+  "checkIns": {
+    "title": "Check-Ins",
+    "empty_list": "Il n'y a pas de check-ins"
+  },
+
+  "coins": {
+    "title": "Histoire des pièces",
+    "empty_list": "Vous n'avez pas d'histoire de pièces",
+    "redeem_promo_code": "Échanger un code promotionnel"
+  }
+}

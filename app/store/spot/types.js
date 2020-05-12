@@ -1,0 +1,3 @@
+export default {
+  SPOT_TOGGLE_LOADING: 'SPOT_TOGGLE_LOADING',
+};

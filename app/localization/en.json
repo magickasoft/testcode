@@ -1,0 +1,425 @@
+{
+  "modal": {
+    "label": {
+      "close": "Close",
+      "cancel": "Cancel",
+      "set": "Set"
+    }
+  },
+  "addBusiness": {
+    "label": {
+      "add": "ADD A BUSINESS"
+    },
+    "text": {
+      "relationship": "What's your relationship with the business you'd like to add?"
+    },
+    "button": {
+      "owner": "I'm a customer",
+      "worker": "I work at the business"
+    }
+  },
+  "back": "Back",
+  "citizens": "Citizens",
+  "connects": "Connects",
+  "favorited_me": "Favorited me",
+  "favorites": "Favorites",
+  "favs": "Favs",
+  "feed": "Feed",
+  "great_lets_go": "Great, let's go !",
+  "got_it": "Ok, Got it",
+  "listings": "Listings",
+  "my_favs": "My Favs",
+  "my_reviews": "My Reviews",
+  "nearby": "Nearby",
+  "nearby_businesses": "Businesses",
+  "education": "Education",
+  "rooms_&_bnb": "Rooms & BnB",
+  "skip": "Skip",
+  "views": "Views",
+  "timeline": "Timeline",
+  "search": "Search",
+  "myEvents": "My Events",
+  "eventsList": "All Events",
+
+  "tabs": {
+    "activity": "Activity",
+    "spots": "Spots",
+    "events": "Events",
+    "settings": "Settings",
+    "chat": "Chat",
+    "people": "People"
+  },
+
+  "allow_locations": {
+    "askPermission": "Please Enable Geolocation to gain rewards and find businesses nearby"
+  },
+  "welcome": {
+    "title": "Welcome to SPECTRA!",
+    "content": "We are glad you joined us. We will be adding new features every 2-4 days to make our platform an awesome place. Please share your feedback and suggeastions - we need to know what features you need!"
+  },
+  "like": {
+    "useful": "Useful",
+    "funny": "Funny",
+    "witty": "Witty",
+    "submitedText": "Got It. Thanks!"
+  },
+  "dislike": {
+    "sexism": "Sexism",
+    "racism": "Racism",
+    "homophobia": "Homophobia",
+    "spam": "Spam",
+    "offensive": "Offensive",
+    "disagree": "Disagree",
+    "submitedText": "Received. We will review this."
+  },
+  "screens": {
+    "events": "EVENTS",
+    "home": "HOME"
+  },
+  "messages": {
+    "chat": "Chat",
+    "no_name_user": "No Name",
+    "send_location": "Send Location",
+    "request_location": "Request location",
+    "cancel": "Cancel",
+    "sendPhoto": "Send Photo",
+
+    "location_sent": "You shared your location",
+    "location_received": "Location received",
+    "location_request_sent": "You requested their location",
+    "location_request_received": "They requested your location",
+    "sent_prefix": "You: ",
+    "photo_message": "Photo",
+    "dialogs_empty": "You don't have any dialogs",
+
+    "input_placeholder": "Message",
+    "location_accepted": "Geolocation request was accepted 👍",
+    "location_rejected": "Geolocation request was rejected ❌",
+    "location_requested": "Geolocation requested 📌",
+    "button_send_location": "Send geolocation",
+    "button_reject_location": "Reject geolocation",
+    "interlocutor_typing": "{fullName} is typing...",
+    "open_album": "Open Album",
+
+    "image_back": "Back",
+    "image_of": "of",
+
+    "location_marker_title": "{name}'s location",
+
+    "before_you_start": "Hey {myName}, before you start...",
+    "you_speaking_to_real_people": "Remember you're speaking to real people, so be kind and treat them with respect",
+    "button_got_it": "Got it"
+  },
+  "spot_review": {
+    "review": "REVIEWS",
+    "about": "DETAILS",
+    "rewards": "REWARDS",
+    "add_review": "Add Review"
+  },
+  "spot_poll": {
+    "submit": "Submit"
+  },
+  "spot_poll_submitted": {
+    "done": "DONE"
+  },
+  "on_boarding": {
+    "withFacebook": "Sign in with Facebook",
+    "withGoogle": "Sign in with Google",
+    "withEmail": "Sign in with Email",
+    "dont_have_account": "Don't have an account?",
+    "signUp": "Sign Up",
+    "or": "OR",
+    "term_first": "By proceeding, you agree to our ",
+    "term_last": ", and confirm you have read our",
+    "term_of_use": "Terms of Use",
+    "nondiscremination": "Non Discrimination Policy",
+    "privacy": "Privacy Policy",
+    "accept": "Accept",
+    "and": "and"
+  },
+  "sign_in_with_email": {
+    "name": "Sign In",
+    "forgot_password": "Forgot Password ?",
+    "dont_have_account": "Don't have an account?",
+    "sign_up": "Sign Up"
+  },
+  "sign_up": {
+    "notSuitableByAgeAudience": "You need to be at least %{years} years old to join us.",
+    "headerLabel": "Create profile",
+    "btnDone": "Done",
+    "name": "Sign Up",
+    "have_an_account": "Already have an account?"
+  },
+  "forgot_password": {
+    "name": "Forgot Password",
+    "remember_password": "Remember your password?",
+    "dont_have_account": "Don't have an account?",
+    "restore_password": "Restore Password",
+    "message_sent": "Please, check your email to restore your password"
+  },
+  "app_information": {
+    "termsOfService_title": "Terms of Service",
+    "privacyPolicy_title": "Privacy Policy",
+    "eula_title": "License Agreement",
+    "nonDiscriminationPolicy_title": "Non Discrimination Policy"
+  },
+  "location": {
+    "name": "Location",
+    "switch": "Background Location",
+    "text": "We use background location to help you discover better offers and connect with inclusive businesses. When background location is on, you will receive personalized notifications.",
+    "text2": "This feature is battery-friendly and turns off when you are not moving.",
+    "button": "Location settings"
+  },
+  "people": {
+    "friends": "Friends",
+    "incoming": "Incoming",
+    "outgoing": "Outgoing",
+    "blocked": "Blocked",
+    "no_friends": "You don't have any friends",
+    "no_incoming_requests": "You don't have any incoming friend requests",
+    "no_outgoing_requests": "You don't have any outgoing friend requests",
+    "no_blocked": "Your blacklist is empty",
+    "accept": "Accept",
+    "ignore": "Ignore",
+    "revoke_request": "Revoke Request"
+  },
+  "events": {
+    "label": {
+      "edit": "Edit Event",
+      "create": "Create Event",
+      "title": "Title",
+      "description": "Description",
+      "time": "Time",
+      "tags": "Tags",
+      "category": "Category",
+      "address": "Address",
+      "filters": "Filters",
+      "applyFilter": "Apply Filter",
+      "organizer": "Organizer",
+      "maybe": "Maybe",
+      "attendees": "Attendees"
+    },
+    "category": {
+      "fashion": "Fashion",
+      "entertainment": "Entertainment",
+      "travels": "Travels"
+    },
+    "status": {
+      "unattend": "Unattend",
+      "optedOut": "Opted Out",
+      "maybe": "Maybe",
+      "going": "Going"
+    },
+    "button": {
+      "save": "Save",
+      "create": "Create"
+    }
+  },
+  "albums": {
+    "who_can_see": "Who can see this album",
+    "album_name": "Album name",
+    "album_description": "Album description",
+    "my_albums": "My Albums",
+    "no_albums": "There are no albums",
+    "no_photos": "This album is empty",
+    "albums_list_title": "{fullName}'s albums",
+
+    "create_album": "Create Album",
+    "create_your_album": "Create your album",
+    "edit_album": "Edit Album",
+    "placeholder_title": "Title",
+    "placeholder_description": "About the album",
+    "button_save": "Save",
+    "button_create": "Create",
+
+    "privacy_public": "Public",
+    "privacy_users": "Only Users",
+    "privacy_friends": "Only Friends",
+    "privacy_private": "Private",
+    "privacy_some_users": "Only some users",
+
+    "photo": "photo",
+    "photos": "photos"
+  },
+
+  "other": {
+    "validate": "Validate",
+    "title": "Settings",
+    "rewardsLens": "Rewards Lens",
+    "my_profile": "Profile",
+    "my_friends": "My Friends",
+    "my_albums": "My Albums",
+
+    "spread_word": "Spread the word",
+    "blocked_users": "Blocked users",
+    "taking_a_break": "Taking a break",
+    "redeem_code": "Redeem promo code",
+    "albums_access": "Albums Access",
+    "settings_geolocation": "Settings geolocation",
+    "FAQ": "FAQ",
+
+    "background_color": "Change background color",
+    "reset_tutorials": "Reset All Tutorials",
+    "invite_friends": "Invite Friends",
+    "change_color": "Change elements color",
+    "enable_push_sound": "Enable Push notifications sound",
+    "disable_push_sound": "Disable Push notifications sound",
+    "enable_messages": "Enable incoming messages",
+    "disable_messages": "Disable incoming messages for 24 hours",
+    "touch_id": "Touch id",
+    "add_a_business": "Suggest a business",
+    "location_settings": "Location Settings",
+    "profile_verification": "Verify me",
+    "legal": "Legal",
+    "contact_admins": "Contact Admins",
+    "suggest_a_feature": "Suggest a Feature",
+    "sign_out": "Logout",
+    "change_language": "Change language",
+    "request_data_about_me": "Send me my data",
+
+    "tutorials_alert_title": "Reset Tutorials",
+    "tutorials_alert_message": "Now you will see all App Tutorials.\nRecommended to restart the application.",
+
+    "section_profile": "Profile",
+    "section_verifications": "Verifications",
+    "section_customizations": "Customizations",
+    "section_contact_us": "Contact us",
+    "section_privacy": "Privacy",
+    "section_businesses": "Businesses",
+    "section_other": "Other",
+    "bookmarks": "My Bookmarks"
+  },
+
+  "date": {
+    "last_seen": "last seen",
+    "ago": "ago"
+  },
+
+  "swipeable": {
+    "block": "Block",
+    "unfriend": "Unfriend",
+    "delete": "Delete",
+    "unblock": "Unblock",
+    "edit": "Edit",
+    "remove": "Remove"
+  },
+
+  "spots": {
+    "add_a_business": "Add a business",
+    "contact_admins": "Contact admins",
+    "suggest_a_feature": "Suggest a Feature",
+    "coming_soon": "Coming soon",
+
+    "my_reviews_empty": "Click Businesses and write your first review!",
+    "review": "Review",
+    "reviews": "Reviews",
+    "get_points": "GET {points} POINTS",
+
+    "write_first_review": "Be the First to Review",
+    "check_in": "Check-In",
+    "add_photos": "Add photos",
+    "now_hiring": "NOW HIRING",
+
+    "share": "Share",
+    "leave_a_tip": "Leave a Tip",
+    "rate": "Rate"
+  },
+
+  "spots_filter": {
+    "title": "Filters",
+    "sort_distance": "Distance",
+    "sort_rating": "Rating",
+    "sort_reviews": "Most reviewed",
+    "freelancer": "Freelancer friendly",
+    "offers": "Offers Deals",
+    "rewards": "Rewards Program",
+    "sort_by": "Sort By",
+    "category": "Category",
+    "highlight": "Highlight",
+    "distance": "Distance, miles",
+    "all_distance": "all",
+    "apply_filter": "Apply Filter"
+  },
+
+  "profile": {
+    "mutual": "mutual",
+    "cancel_friend_request": "Cancel friend request",
+    "ignore_friend_request": "Ignore friend request",
+    "unfriend": "Unfriend",
+    "accept_friend_request": "Accept friend request",
+    "add_to_friends": "Add to friends",
+    "dont_show": "Don't show",
+    "full_name": "Full name",
+    "age": "%{years} years old",
+    "about_me": "About me",
+    "message": "Message",
+    "share_profile": "Share profile",
+    "photos": "Photos",
+    "friends": "Friends",
+    "my_friends": "View all friends",
+    "my_albums": "View all photos",
+    "edit_info": "Edit info",
+    "edit_profile": "Edit profile",
+    "gender": "Gender",
+    "pronoun": "Pronoun",
+    "orientation": "Sexual orientation"
+  },
+
+  "copilot": {
+    "addPhoto": "Upload your cover photo. It is required!",
+    "myEvents": "List of your events",
+    "eventsList": "List of events",
+    "profile_visitors": "Visitors of your profile.",
+    "visited_places": "Places you have visited.",
+    "coins": "This is your coin balance.",
+
+    "profile_selector": "Profile selector. Switch between your Review and Housing profiles!",
+    "users_list": "Find users from the list!",
+
+    "change_profile_picture": "Change your profile picture!",
+    "edit_profile": "Edit profile info.",
+
+    "add_business": "Add a business.",
+    "verify_profile": "Verify your profile.",
+    "change_background": "Change background color!",
+
+    "set_place_rating": "Review places!",
+    "place_check_in": "Click to check-in at a place!",
+    "add_place_photos": "Add photos of a place!",
+
+    "places_filter": "Here is your search filter.",
+    "map_button": "Switch to the Map view!",
+    "reviews_list": "List of your reviews.",
+    "search_places": "Search for the places to go!",
+
+    "send_new_photo": "Take a photo and send to your friends!",
+    "send_gallery_photo": "Or select photo from your gallery",
+    "share_location": "Also, You can share your location",
+    "request_location": "Or request location of the interlocutor!"
+  },
+
+  "edit_profile": {
+    "title": "Edit profile",
+
+    "placeholder_name": "Name",
+    "placeholder_last_name": "Last name",
+    "placeholder_about_me": "About me",
+    "button_done": "Done"
+  },
+
+  "bookmarks": {
+    "title": "Bookmarks",
+    "empty_list": "Bookmarks are empty"
+  },
+
+  "checkIns": {
+    "title": "Check-Ins",
+    "empty_list": "There are no check-ins"
+  },
+
+  "coins": {
+    "title": "Coins History",
+    "empty_list": "You don't have coins history",
+    "redeem_promo_code": "Redeem Promo Code"
+  }
+}

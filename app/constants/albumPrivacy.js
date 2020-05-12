@@ -1,0 +1,34 @@
+export const albumPrivacy = {
+  ONLY_I: 1,
+  FRIENDS: 2,
+  USERS: 3,
+  ALL: 4,
+  SOME_USERS: 5
+};
+
+export const ALBUM_REQUEST_VALUE = {
+  REQUEST: 1,
+  DISALLOW: 2,
+  ALLOW_FOREVER: 3,
+  ALLOW_1_DAY: 7,
+  ALLOW_1_WEEK: 8,
+  ALLOW_1_MONTH: 9
+};
+
+export const ALBUM_REQUEST_NAMES = {
+  [ALBUM_REQUEST_VALUE.REQUEST]: 'Request',
+  [ALBUM_REQUEST_VALUE.DISALLOW]: 'Reject',
+  [ALBUM_REQUEST_VALUE.ALLOW_FOREVER]: 'Allow Forever',
+  [ALBUM_REQUEST_VALUE.ALLOW_1_DAY]: 'Allow for 1 day',
+  [ALBUM_REQUEST_VALUE.ALLOW_1_WEEK]: 'Allow for 1 week',
+  [ALBUM_REQUEST_VALUE.ALLOW_1_MONTH]: 'Allow for 1 month'
+};
+
+export const ALBUM_STATUS_NAMES = {
+  [ALBUM_REQUEST_VALUE.REQUEST]: 'Request',
+  [ALBUM_REQUEST_VALUE.DISALLOW]: 'Rejected',
+  [ALBUM_REQUEST_VALUE.ALLOW_FOREVER]: 'Allowed Forever',
+  [ALBUM_REQUEST_VALUE.ALLOW_1_DAY]: 'Allowed for 1 day',
+  [ALBUM_REQUEST_VALUE.ALLOW_1_WEEK]: 'Allowed for 1 week',
+  [ALBUM_REQUEST_VALUE.ALLOW_1_MONTH]: 'Allowed for 1 month'
+};

@@ -1,0 +1,3 @@
+export default {
+  PERSIST_MERGE_FILTER: 'PERSIST_MERGE_FILTER',
+};

@@ -1,0 +1,7 @@
+export default {
+  SIGNED_IN: 'SIGNED_IN',
+  SIGNED_OUT: 'SIGNED_OUT',
+  LOADING: 'LOADING',
+  UPDATE: 'UPDATE',
+  ACCEPT_EULA: 'ACCEPT_EULA'
+};
