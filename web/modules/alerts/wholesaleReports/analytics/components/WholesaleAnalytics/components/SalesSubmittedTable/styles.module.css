@@ -1,0 +1,14 @@
+.title {
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #484848;
+}
+
+.layer {
+  display: table;
+  margin-bottom: 58px;
+}

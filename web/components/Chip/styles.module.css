@@ -1,0 +1,18 @@
+@import "styles/variables";
+
+.chip {
+  display: inline-block;
+  color: var(--color-white);
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 8px;
+  text-transform: uppercase;
+}
+
+.primaryFace {
+  background-color: #45d5b4;
+}
+
+.defaultFace {
+  background-color: #b8b8b8;
+}

@@ -1,0 +1,51 @@
+@import "styles/variables";
+
+.label {
+  font-size: 22px;
+}
+
+.copy {
+  width: 706px;
+  display: flex;
+  background-color: #f5f5f5;
+  margin: 35px 0 50px 0;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.copy input {
+  flex: 1;
+  border: none;
+  background-color: transparent;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 18px;
+  outline: none;
+}
+
+.copy span {
+  cursor: pointer;
+  color: #a6a6a6;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 16px 25px;
+  border-left: 2px solid var(--color-white);
+}
+
+.copy span:hover {
+  color: var(--color-white);
+  background-color: #b8b8b8;
+}
+
+.copy span:active {
+  color: var(--color-white);
+  background-color: #868686;
+}
+
+.submitButton {
+  order: 1;
+}
+
+.cancelButton {
+  order: 2;
+}

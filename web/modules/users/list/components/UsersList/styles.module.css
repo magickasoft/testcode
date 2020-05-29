@@ -1,0 +1,35 @@
+@import "styles/variables";
+
+.due {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.due i {
+  margin-right: 10px;
+}
+
+.nameLink {
+  color: var(--color-black) !important;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  border-color: #00c698;
+  color: #00c698 !important;
+}
+
+.editAction {
+  color: #000 !important;
+  justify-content: center;
+}
+
+.inactive {
+  color: #aaaaaa !important;
+}

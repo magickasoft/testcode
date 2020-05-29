@@ -1,0 +1,15 @@
+@import "styles/variables.css";
+
+.heading {
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--color-black);
+}
+
+.heading.large {
+  font-size: 20px;
+  margin-bottom: 20px;
+}

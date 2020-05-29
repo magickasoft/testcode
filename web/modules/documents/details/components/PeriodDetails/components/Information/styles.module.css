@@ -1,0 +1,18 @@
+@import "styles/variables";
+
+.columns {
+  display: flex;
+  margin-top: 30px;
+}
+
+.column {
+  width: 488px;
+}
+
+.approveButton {
+  margin-left: 10px;
+}
+
+.licenseName {
+  margin-top: 82px;
+}

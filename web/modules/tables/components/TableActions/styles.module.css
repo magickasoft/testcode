@@ -1,0 +1,18 @@
+@import "styles/variables";
+
+.icon {
+  margin-right: 8px;
+}
+
+.text {
+  font-size: 14px;
+  text-decoration: none !important;
+}
+
+.textFaceBlack {
+  color: var(--color-black) !important;
+}
+
+.textFaceGrey {
+  color: #8b8b8b !important;
+}

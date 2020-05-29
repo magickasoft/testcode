@@ -1,0 +1,3 @@
+{
+  "buttonTypeError": "\"openButtonComponent\" should be passed to DropDownMenu, when \"openButtonType\" is set to \"DropDownOpenButtonTypes.Custom\"."
+}

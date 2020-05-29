@@ -1,0 +1,10 @@
+@import "styles/variables";
+
+.section {
+    margin: 20px 0 10px 0;
+}
+
+.descriptionInput {
+  width: 100%;
+  height: 160px !important;
+}

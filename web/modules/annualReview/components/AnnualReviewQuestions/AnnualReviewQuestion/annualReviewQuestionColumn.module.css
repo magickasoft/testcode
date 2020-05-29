@@ -1,0 +1,9 @@
+
+.column {
+  flex: 1;
+  margin-right: 30px;
+}
+
+.column ~ .column {
+  max-width: 480px;
+}

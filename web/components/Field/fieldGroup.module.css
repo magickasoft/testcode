@@ -1,0 +1,4 @@
+.fieldGroup {
+  display: flex;
+  flex-direction: row;
+}

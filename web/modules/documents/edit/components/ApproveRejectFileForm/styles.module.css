@@ -1,0 +1,21 @@
+@import "styles/variables";
+
+.notes {
+  width: 730px;
+}
+
+.notes textarea {
+  height: 120px;
+}
+
+.downloadLink {
+  margin-bottom: 20px;
+}
+
+.submitButton {
+  order: 1 !important;
+}
+
+.cancelButton {
+  order: 2 !important;
+}

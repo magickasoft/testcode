@@ -1,0 +1,29 @@
+.columns {
+  display: flex;
+}
+
+.column {
+  margin-right: 30px;
+}
+
+.field {
+  width: 161px !important;
+}
+
+.fieldRow {
+  display: flex;
+}
+
+.inputFrom {
+  width: 161px !important;
+  margin-right: 20px;
+}
+
+.inputFrom > span {
+  width: 100%;
+}
+
+.inputCompany {
+  width: 161px !important;
+  margin-right: 20px;
+}

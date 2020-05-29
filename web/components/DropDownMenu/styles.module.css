@@ -1,0 +1,36 @@
+@import "styles/variables";
+
+.icon {
+  margin-right: 8px;
+}
+
+.text {
+  font-size: 14px;
+  text-decoration: none !important;
+}
+
+.text:hover i[class*=iconprimary]{
+  color: #00c698;
+  fill: #006a51;
+}
+
+.text:hover i[class*=icondanger]{
+  fill: red;
+  color: #FA5252;
+}
+
+.textFaceBlack {
+  color: var(--color-black) !important;
+}
+
+.textFaceGrey {
+  color: #8b8b8b !important;
+}
+
+.iconprimary {
+  display: inline-block;
+}
+
+.icondanger {
+  display: inline-block;
+}

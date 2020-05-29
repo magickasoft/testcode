@@ -1,0 +1,14 @@
+.title {
+  background-color: #f5f5f5 !important;
+}
+
+.darkTitle {
+  background-color: #484848 !important;
+  color: #e2e2e2 !important;
+  min-height: 66px;
+  font-size: 17px;
+}
+
+.row {
+  background-color: rgba(250, 82, 82, 0.4) !important;
+}

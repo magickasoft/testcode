@@ -1,0 +1,39 @@
+@import "styles/bem.scss";
+@import "styles/mixins.scss";
+
+#{ bem-block(AuthPage) } {
+  @include flex(column, center, $justify-content: space-around);
+  height: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#{ bem-element(AuthPage, background) } {
+  @include position(fixed, 0, 0, $width: 100%, $height: 100%);
+  background-color: rgba(0, 0, 0, .22);
+  z-index: 0;
+  transition-timing-function: ease;
+  animation: bgScale 20s infinite;
+
+  &:before {
+    @include position(absolute, 0, 0, $width: 100%, $height: 100%);
+    content: '';
+    background: rgba(0, 0, 0, .22);
+  }
+}
+
+@keyframes bgScale {
+  0%   {
+    transform: scale(1, 1);
+  }
+
+  50% {
+    transform: scale(1.03, 1.03);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}

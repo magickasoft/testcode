@@ -1,0 +1,20 @@
+import { MAIN_PATH } from 'modules/main';
+
+export const COMPANY_ADD_PATH = `${MAIN_PATH}/relationships/add`;
+export const COMPANY_EDIT_PATH = `${MAIN_PATH}/relationships/edit/:id`;
+export const COMPANY_EDIT_ID = 'companies.edit';
+export const CONTACT_EDIT_ID = 'companies.contacts.edit';
+export const CUSTOMER_EDIT_ID = 'companies.customers.edit';
+export const CUSTOMER_DELETION_ID = 'companies.customers.deletion';
+export const VENDOR_EDIT_ID = 'companies.vendors.edit';
+export const AFFILIATED_EDIT_ID = 'companies.affiliated.edit';
+export const VENDOR_DELETION_ID = 'companies.vendors.deletion';
+export const AFFILIATED_DELETION_ID = 'companies.affiliated.deletion';
+export const COMPANY_EDIT_API_URL = '/company';
+export const CONTACT_EDIT_API_URL = '/contact';
+export const CUSTOMER_EDIT_API_URL = '/customer';
+export const CUSTOMER_DELETION_API_URL = '/customer';
+export const VENDOR_EDIT_API_URL = '/vendor';
+export const AFFILIATED_EDIT_API_URL = '/affiliated-company';
+export const VENDOR_DELETION_API_URL = '/vendor';
+export const AFFILIATED_DELETION_API_URL = '/affiliated-company';

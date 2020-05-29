@@ -1,0 +1,15 @@
+.container {
+  padding: 40px;
+}
+
+.row {
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+.row pre {
+  background-color: #fafafa;
+  padding-bottom: 30px;
+  border-radius: 10px;
+  font-size: 14px;
+}

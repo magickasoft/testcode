@@ -1,0 +1,14 @@
+@import "styles/variables";
+
+.rowActions {
+  display: flex;
+  justify-content: space-around;
+}
+
+.rowActions a {
+  color: #b8b8b8 !important;
+}
+
+.detailsLink {
+  color: #000 !important;
+}

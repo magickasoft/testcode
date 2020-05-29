@@ -1,0 +1,11 @@
+@import "styles/variables";
+
+.link {
+  display: flex;
+  align-items: center;
+  color: var(--color-black) !important;
+}
+
+.link i {
+  margin-right: 10px;
+}

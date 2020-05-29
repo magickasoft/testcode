@@ -1,0 +1,34 @@
+@import "styles/variables";
+
+.section {
+    margin: 20px 0 10px 0;
+}
+
+.columns {
+  display: flex;
+  /*margin-bottom: 29px;*/
+}
+
+.left {
+  width: 486px;
+}
+
+.right {
+  floaT: left;
+}
+
+.nameInput, .legalNameInput, .dbaInput, .customerInput {
+  width: 386px;
+}
+
+.customerInput {
+  width: 230px;
+}
+
+.activeInput {
+  margin-bottom: 13px;
+}
+.descriptionInput {
+  width: 100%;
+  height: 160px !important;
+}

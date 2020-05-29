@@ -1,0 +1,15 @@
+@import "styles/bem.scss";
+
+#{ bem-block(App) } {
+  height: 100%;
+  max-width: 1920px;
+  box-shadow: 5px 0 7px rgba(0, 0, 0, .05);
+}
+
+#{ bem-element(App, page) } {
+  height: 100%;
+}
+
+#{ bem-element(App, spinner, null, bem-block(Spinner, centered)) } {
+  position: fixed;
+}

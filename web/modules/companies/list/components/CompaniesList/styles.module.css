@@ -1,0 +1,15 @@
+@import "styles/variables";
+
+.due {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.due i {
+  margin-right: 10px;
+}
+
+.nameLink {
+  color: var(--color-black) !important;
+}

@@ -1,0 +1,26 @@
+@import "styles/variables";
+
+.section {
+    margin: 20px 0 10px 0;
+}
+
+.columns {
+  display: flex;
+  margin-bottom: 29px;
+}
+
+.left {
+  width: 486px;
+}
+
+.right {
+  floaT: left;
+}
+
+.businessTypeInput, .entityTypeInput {
+  width: 230px;
+}
+
+.einInput {
+  width: 386px;
+}

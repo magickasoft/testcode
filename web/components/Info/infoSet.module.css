@@ -1,0 +1,35 @@
+@import "styles/variables.css";
+
+.infoSet {
+  padding: 0;
+  min-width: 0;
+  margin-bottom: 30px;
+}
+
+.legend {
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.4px;
+  color: var(--color-legend-title);
+  padding: 20px 0 20px 0;
+}
+
+.infoSet.lg .legend {
+  font-size: 28px;
+  color: var(--color-black);
+}
+
+.row,
+.column {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.row {
+  max-width: 680px;
+}

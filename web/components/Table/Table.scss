@@ -1,0 +1,13 @@
+@import "styles/bem.scss";
+@import "styles/mixins.scss";
+@import "styles/variables.scss";
+
+#{ bem-block(Table) } {
+  .ant-table-pagination.ant-pagination {
+    margin-right: 20px;
+  }
+}
+
+#{ bem-element(Table, active) } {
+  background-color: #e2e2e2 !important;
+}

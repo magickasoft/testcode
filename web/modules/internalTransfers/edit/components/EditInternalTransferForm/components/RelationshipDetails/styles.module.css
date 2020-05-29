@@ -1,0 +1,57 @@
+@import "styles/variables";
+
+.section {
+    margin: 20px 0 10px 0;
+}
+
+.columns {
+    display: flex;
+}
+
+.left {
+    width: 340px;
+}
+
+.right {
+    floaT: left;
+}
+
+.amountInput {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80px;
+    color: var(--color-legend-title);
+}
+
+.manifestNumberInput {
+  width: 88px;
+}
+
+.recipientInfo {
+  margin-bottom: 19px;
+}
+
+.idInfo {
+  margin-bottom: 19px;
+}
+
+.statusSelect {
+    width: 161px;
+}
+
+.senderSelect {
+    width: 161px;
+}
+
+.notesInput {
+    height: 112px;
+}
+
+.notesField {
+    width: 610px;
+}
+
+.fieldStub {
+  height: 82px;
+}

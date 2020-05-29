@@ -1,0 +1,104 @@
+.autocompleteBox {
+  display: flex;
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 3px;
+  padding-right: 10px;
+}
+
+.value {
+  background-color: #f5f5f5;
+  padding: 7px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+  height: 38px;
+}
+
+.title {
+  color: #b8b8b8;
+  flex: 1
+}
+
+.count {
+  background-color: #e2e2e2;
+  color: #b8b8b8;
+  font-weight: 600;
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 9px;
+  margin-right: 10px;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 7px 20px 7px 10px;
+  white-space: nowrap;
+  font-size: 11px;
+}
+
+.disabledOption {
+  cursor: not-allowed;
+  color: #b8b8b8;
+}
+
+.empty {
+  font-size: 11px;
+  color: #b8b8b8;
+  padding: 7px 10px;
+}
+
+.option:hover {
+  background: #f5f5f5;
+}
+
+.option i[class*=plus] {
+  fill: #c2c2c2;
+  flex-shrink: 0;
+}
+
+.option:hover i[class*=plus] {
+  fill: #23C698;
+}
+
+.option i[class*=minus] {
+  fill: #c2c2c2;
+  flex-shrink: 0;
+}
+
+.option:hover i[class*=minus] {
+  fill: #FA5252;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.menu {
+  pointer-events: all !important;
+}
+
+.columns {
+  display: flex;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.column {
+  flex: 1;
+  padding: 10px 0;
+  max-height: 252px;
+  overflow-y: auto;
+}
+
+.column:first-child {
+  border-right: 1px solid #f0f0f0;
+}

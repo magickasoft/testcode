@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <path id="prefix__a" d="M0 0L15.039 0 15.039 18 0 18z"/>
+        <path id="prefix__c" d="M0.346 0L5.325 0 5.325 5.032 0.346 5.032z"/>
+    </defs>
+    <g>
+        <rect width="32" height="32" fill="#E2E2E2" rx="7"/>
+        <g transform="translate(8 7)">
+            <path d="M15.04 5.032v11.693c0 .704-.566 1.275-1.263 1.275H1.262C.565 18 0 17.429 0 16.725V1.275C0 .571.565 0 1.262 0h8.799l4.978 5.032z" />
+            <g transform="translate(9.714)">
+                <mask id="prefix__d" fill="#fff">
+                    <use xlink:href="#prefix__c"/>
+                </mask>
+                <path style="fill:currentColor" d="M5.325 5.032h-3.71c-.7 0-1.269-.574-1.269-1.283V0" mask="url(#prefix__d)"/>
+            </g>
+            <path style="stroke:currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M13.648 8.073L16.859 11.318 13.53 14.683"/>
+            <path style="stroke:currentColor" stroke-linecap="round" stroke-width="1.6" d="M16.356 11.348L7.52 11.348"/>
+        </g>
+    </g>
+</svg>

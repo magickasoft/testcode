@@ -1,0 +1,23 @@
+.columns {
+  display: flex;
+}
+
+.left, .right {
+  width: 345px;
+}
+
+.left {
+  margin-right: 40px;
+}
+
+.activeInput {
+  width: 100px;
+}
+
+.submitButton {
+  order: 1;
+}
+
+.cancelButton {
+  order: 2;
+}

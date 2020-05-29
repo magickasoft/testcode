@@ -1,0 +1,38 @@
+@import "styles/variables";
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.fileName {
+  width: 345px;
+  margin-right: 40px;
+}
+
+.status {
+  width: 230px;
+}
+
+.notes {
+  width: 100%;
+}
+
+.notes textarea {
+  height: 120px;
+}
+
+.submitButton {
+  order: 1;
+}
+
+.cancelButton {
+  order: 2;
+}
+
+.deleteButton {
+  order: 3;
+  position: absolute;
+  right: 0;
+  top: 0;
+}

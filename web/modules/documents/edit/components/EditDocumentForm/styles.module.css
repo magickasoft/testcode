@@ -1,0 +1,80 @@
+.columns {
+  display: flex;
+  margin-top: 30px;
+}
+
+.column {
+  width: 488px;
+}
+
+.content {
+    padding: 1px 36px 18px 36px;
+}
+
+.section {
+    margin: 20px 0 10px 0;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-top: 1px solid #e2e2e2;
+  background: #fff;
+  padding: 0 50px;
+}
+
+.deleteLink {
+  text-decoration: none !important;
+}
+
+.nameInput {
+  width: 386px;
+}
+
+.frequencyInput {
+  width: 230px;
+}
+
+.relationshipInput {
+  width: 230px;
+}
+
+.licensesInput {
+  width: 230px;
+  margin-top: 13px;
+}
+
+.expirationInput {
+  width: 88px;
+}
+
+.licenseName {
+  margin-top: 13px;
+}
+
+.notes {
+  width: 872px;
+}
+
+.notes textarea {
+  height: 120px;
+}
+
+.frequencyLabel {
+  display: flex;
+  align-items: center;
+}
+
+.frequencyLabel i {
+  cursor: pointer;
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-left: 10px;
+}

@@ -1,0 +1,26 @@
+.columns {
+  display: flex;
+}
+
+.column {
+  width: 242px;
+}
+
+.column:last-child {
+  margin-left: 28px;
+}
+
+.message {
+  color: #fa5252;
+  font-size: 13px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: 0.2px;
+  padding-bottom: 15px;
+}
+
+.companyName {
+  margin-bottom: 20px;
+}
